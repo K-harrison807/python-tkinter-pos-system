@@ -43,9 +43,7 @@ Install Python (version 3.x).
 
 Ensure Tkinter is installed (usually included with Python).
 
-Run the main Python file:
-
-python main.py
+Run -> Python POS system.ipynb
 
 Add receipt generation
 
