@@ -4,6 +4,9 @@
 
 This is a desktop-based Point of Sale (POS) system built using Python, Tkinter for the graphical user interface, and SQLite for database management. The application demonstrates full CRUD operations, inventory management, and transaction calculations.
 
+![ScreenShot](https://github.com/K-harrison807/python-tkinter-pos-system/blob/main/inventory%20GUI.png)
+
+
 # Features
 
 Add new products
