@@ -47,8 +47,6 @@ Run the main Python file:
 
 python main.py
 
-# Future Improvements
-
 Add receipt generation
 
 Improve UI styling
